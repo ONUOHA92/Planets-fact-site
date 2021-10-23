@@ -2,19 +2,6 @@
 
 This is a solution to the [Planets fact site challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,13 +14,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![s0](https://user-images.githubusercontent.com/72691985/138553911-b79d239d-12fc-4d9f-837f-7b8976d25522.PNG)
 
 
 ### Links
 
-- Solution URL: [github.com](https://your-solution-url.com)
-- Live Site URL: [netlify.com](https://your-live-site-url.com)
+- Solution URL: [github.com](https://github.com/mlatka9/Planets-fact-site)
+- Live Site URL: [netlify.com](https://reverent-galileo-799cca.netlify.app/)
 
 ## My process
 
