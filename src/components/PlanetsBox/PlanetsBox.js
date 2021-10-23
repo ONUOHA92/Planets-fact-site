@@ -58,7 +58,7 @@ const PlanetsBox = ({ currentPlanetIndex = 0 }) => {
   };
 
   useEffect(() => {
-    console.log('api call');
+    // console.log('api call');
     mockAPI().then((planetData) => {
       setData(planetData);
       setDataLoading(false);
@@ -66,7 +66,7 @@ const PlanetsBox = ({ currentPlanetIndex = 0 }) => {
   }, []);
 
   useEffect(() => {
-    console.log('planet change');
+    // console.log('planet change');
     setCurrentPlanetData(data[currentPlanetIndex]);
     setCurrentTab('planet');
     setIsMobileNavOpen(false);
@@ -74,7 +74,7 @@ const PlanetsBox = ({ currentPlanetIndex = 0 }) => {
   }, [data, currentPlanetIndex]);
 
   useEffect(() => {
-    console.log('tab change call');
+    // console.log('tab change call');
     if (data.length === 0) return;
     const images = data[currentPlanetIndex].images;
     if (currentTab === 'geology') {
